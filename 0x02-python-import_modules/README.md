@@ -1,1 +1,1 @@
-Assignment repository for -import and modules
+Assignment repository for modules
